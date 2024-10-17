@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "test_react.andresdavidcalderon.github.io"
     },
     "web": {
       "bundler": "metro",
